@@ -1,8 +1,18 @@
-# Horiseon 
-This is a webpage for Horiseon- a social solution services.
+# **Horiseon**
 
-Link to the website :
+## **Purpose**
+
+A website that offers services for social media. 
+
+## **Built With:**
+
++ HTML
++ CSS
+
+## **Website** :
+
 https://tracytran1189.github.io/Horiseon/
+
 
 ![alt text](assets/images/website.png)
 
